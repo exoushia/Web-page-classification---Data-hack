@@ -17,3 +17,8 @@ Basically given the complete url, predict the tag a web page belongs to out of 9
 * Others
 
 Approach:
+ Exploring frequency and types of URL tags | Feature extraction from URLs using bag-of-words, TF-IDF & N-Grams | Feature transformations | Model (Logistic Regression, Tree based methods, Multinomial NB) and K Fold cross validation
+ 
+ Best model:
+ Logistic Regression -
+ Weighted F1 Score: 0.7476073359679621
